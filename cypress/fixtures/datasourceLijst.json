@@ -1,0 +1,27 @@
+[
+    {
+        "id": 9,
+        "naam": "Afval Brussel 2022",
+        "type": 1,
+        "foutief": true,
+        "boodschap": "Foutieve waarden"
+    },
+    {
+        "id": 1,
+        "naam": "Partnerships in Europa 2022",
+        "type": 0,
+        "foutief": false
+    },
+    {
+        "id": 2,
+        "naam": "Partnerships in Amerika 2022",
+        "type": 0,
+        "foutief": false
+    },
+    {
+        "id": 3,
+        "naam": "Lokale Leveranciers",
+        "type": 1,
+        "foutief": false
+    }
+]

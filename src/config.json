@@ -1,0 +1,7 @@
+{
+  "base_url": "http://localhost:3001/api/",
+  "token_key": "auth_token",
+  "dashboard_naam": "dashboard_naam",
+  "dashboard_rol": "dashboard_rol",
+  "dashboard_primair": "dashboard_primair"
+}

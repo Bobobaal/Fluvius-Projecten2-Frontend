@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "naam": "Partnerships in Europa 2022",
+    "type": 0,
+    "data": {
+        "x": [
+            "Jan",
+            "Feb",
+            "Mrt",
+            "Apr"
+        ],
+        "y": [
+            53,
+            78,
+            111,
+            203
+        ],
+        "xLabel": "Maand",
+        "yLabel": "Partners"
+    },
+    "foutief": true,
+    "boodschap": "Foutieve waarden"
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "naam": "Poverty",
+    "icoon": "E_SDG_Icons-01.jpg",
+    "kleur": "#E5233D"
+  },
+  {
+    "id": 2,
+    "naam": "Hunger",
+    "icoon": "E_SDG_Icons-02.jpg",
+    "kleur": "#DDA73A"
+  },
+  {
+    "id": 3,
+    "naam": "Health",
+    "icoon": "E_SDG_Icons-03.jpg",
+    "kleur": "#4CA146"
+  },
+  {
+    "id": 4,
+    "naam": "Education",
+    "icoon": "E_SDG_Icons-04.jpg",
+    "kleur": "#C7212F"
+  },
+  {
+    "id": 5,
+    "naam": "Gender Equality",
+    "icoon": "E_SDG_Icons-05.jpg",
+    "kleur": "#EF402D"
+  },
+  {
+    "id": 6,
+    "naam": "Clean Water",
+    "icoon": "E_SDG_Icons-06.jpg",
+    "kleur": "#27BFE6"
+  },
+  {
+    "id": 7,
+    "naam": "Clean Energy",
+    "icoon": "E_SDG_Icons-07.jpg",
+    "kleur": "#FBC412"
+  },
+  {
+    "id": 8,
+    "naam": "Economic Growth",
+    "icoon": "E_SDG_Icons-08.jpg",
+    "kleur": "#A31C44"
+  },
+  {
+    "id": 9,
+    "naam": "Infrastructure",
+    "icoon": "E_SDG_Icons-09.jpg",
+    "kleur": "#F26A2E"
+  },
+  {
+    "id": 10,
+    "naam": "Reduced Inequalities",
+    "icoon": "E_SDG_Icons-10.jpg",
+    "kleur": "#E01483"
+  },
+  {
+    "id": 11,
+    "naam": "Sustainable Cities",
+    "icoon": "E_SDG_Icons-11.jpg",
+    "kleur": "#F89D2A"
+  },
+  {
+    "id": 12,
+    "naam": "Responsible production and consumption",
+    "icoon": "E_SDG_Icons-12.jpg",
+    "kleur": "#BF8D2C"
+  },
+  {
+    "id": 13,
+    "naam": "Climate Action",
+    "icoon": "E_SDG_Icons-13.jpg",
+    "kleur": "#407F46"
+  },
+  {
+    "id": 14,
+    "naam": "Life Below Water",
+    "icoon": "E_SDG_Icons-14.jpg",
+    "kleur": "#1F97D4"
+  },
+  {
+    "id": 15,
+    "naam": "Life On Land",
+    "icoon": "E_SDG_Icons-15.jpg",
+    "kleur": "#59BA48"
+  },
+  {
+    "id": 16,
+    "naam": "Peace, Justice and Institutions",
+    "icoon": "E_SDG_Icons-16.jpg",
+    "kleur": "#136A9F"
+  },
+  {
+    "id": 17,
+    "naam": "Partnerships for the goals",
+    "icoon": "E_SDG_Icons-17.jpg",
+    "kleur": "#14496B"
+  }
+]

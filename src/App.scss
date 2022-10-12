@@ -1,0 +1,203 @@
+//Vars
+$primary: #055063;
+$secondary: #AED00B;
+$tertiary: #CDDCE0;
+
+$blueButtonPressed: #397787;
+$greenButtonPressed: #BADE0C;
+$text: #484848;
+
+//Global styles
+.subtitle{
+  font-size: 26px;
+  font-weight: bold;
+  color: $text;
+}
+.title{
+  font-size: 40px;
+  font-weight: bold;
+  color: $text;
+}
+
+.buttonGreen {
+  color:$primary !important;
+  font-weight: 700 !important;
+  font-size: 24px !important;
+  padding: 20px 35px !important;
+  border-radius: 15px !important;
+  background-color: $secondary !important;
+  &:hover{
+    background-color: $greenButtonPressed !important;
+  }
+}
+
+.button2 {
+  color: white !important;
+  font-weight: 500 !important;
+  padding: 7px 20px !important;
+  // margin: 1px 0px !important;
+  border-radius: 10px !important;
+  background-color: $primary !important;
+  &:hover{
+    background-color: $blueButtonPressed !important;
+  }
+}
+
+.divider{
+  border-color: $text!important;
+  border-width: 1px!important;
+  width: auto!important;
+  margin-top: 10px;
+}
+
+.errormsg {
+  color: red;
+  text-align: left;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.bold{
+  color: $text !important;
+  font-weight: bold !important;
+}
+
+
+// Navigation
+.nav-button {
+  color: white;
+  display: inline-block;
+  position: relative;
+  padding-bottom: 3px;
+  cursor: pointer;
+  &:hover {
+    color: $secondary;
+    &:after {
+      width: 100%;
+      background: $secondary;
+    }
+  }
+  &:after {
+    content: '';
+    display: block;
+    margin: auto;
+    height: 1px;
+    width: 0px;
+    background: transparent;
+    transition: width .5s ease, background-color .5s ease;
+  }
+  &:focus {
+    color: $secondary;
+  }
+}
+
+.nav-drawer-button {
+  @extend .button2;
+  padding: 28px 0px !important;
+  font-size: 26px !important;
+  font-weight: 300 !important;
+  width: 100% !important;
+  &:hover {
+    font-weight: 600 !important;
+  }
+}
+
+.nav-drawer-close {
+  @extend .button2;
+  padding: 2px !important;
+}
+
+//Doelstelling
+.titelSubdoelstellingText {
+  color: $primary;
+  font-weight: 500;
+  margin: 0px 0px 3px 1px;
+}
+
+.subDoelstellingBox{
+  background: #EFEFEF;
+  padding: 1px;
+  border-radius: 10px;
+  width: 25%;
+  margin-bottom: 5px;
+}
+
+.vooruitgangText{
+  display: inline;
+  color: $primary;
+  font-weight: 500;
+}
+
+.cirkelLabel{
+  color: $text;
+  font-weight: bold;
+}
+
+.subDoelstellingText {
+  margin: 0px 5px 0px 5px;
+  color: $text;
+  font-weight: 500;
+  text-align: center;
+}
+
+.doelstellingTable{
+  margin: 10px 0px 0px 0px;
+}
+
+.tableRightBorder{
+  border-right-width: 1px;
+  border-right-color: $text!important;
+}
+
+.tableCell{
+  border-bottom-width: 0px!important;
+  padding: 0px 10px 0px 10px!important;
+  width:50%;
+}
+
+.middleCell{
+  padding-top: 20px !important;
+  padding-bottom: 20px!important;
+}
+
+.paddingTop20px{
+  padding-top: 20px!important;
+}
+
+//Subdoelstelling
+.subDoelstellingNaam{
+  color: $text;
+  font-weight: 700;
+  margin-left: 15px!important;
+  margin-bottom: 5px!important;
+  font-size: 20px;
+}
+
+.searchIconSubdoelstelling{
+  margin: 10px 10px 5px 10px!important;
+  font-size: 22px;
+  transform: scale(-1, 1)
+}
+
+// Datasource
+.datasource-button {
+  color:$text !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  padding: 0px 25px !important;
+  border-radius: 20px !important;
+  background-color: #EDF2F7 !important;
+  &:hover {
+    background-color: #DEE4EC !important;
+  }
+}
+
+.datasource-button-foutief {
+  @extend .datasource-button;
+  color: white !important;
+  background-color: red !important;
+  &:hover {
+    background-color: #FF6464 !important;
+  }
+}

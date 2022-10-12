@@ -1,0 +1,22 @@
+{
+    "id": 2,
+    "naam": "Partnerships in Amerika 2022",
+    "type": 0,
+    "data": {
+        "x": [
+            "Jan",
+            "Feb",
+            "Mrt",
+            "Apr"
+        ],
+        "y": [
+            45,
+            67,
+            93,
+            132
+        ],
+        "xLabel": "Maand",
+        "yLabel": "Partners"
+    },
+    "foutief": false
+}

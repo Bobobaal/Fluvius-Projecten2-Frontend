@@ -1,0 +1,44 @@
+{
+  "id": 2,
+  "naam": "Lokale Leveranciers 2022",
+  "icoon": "https://cdn-icons-png.flaticon.com/512/1527/1527531.png",
+  "dataType": 1,
+  "drempelwaarde": "Lokaal: 50%, Extern: 50%",
+  "huidigewaarde": "Lokaal: 31%, Extern: 69%",
+  "chart": {
+      "x": [
+          "Lokaal",
+          "Extern"
+      ],
+      "y": [
+          145,
+          320
+      ]
+  },
+  "data": [
+      {
+          "id": 3,
+          "naam": "Lokale Leveranciers",
+          "type": 1,
+          "data": {
+              "x": [
+                  "Lokaal",
+                  "Extern"
+              ],
+              "y": [
+                  145,
+                  320
+              ]
+          },
+          "foutief": false
+      }
+  ],
+  "goal": 12,
+  "rollen": [
+      "0",
+      "1",
+      "2",
+      "3"
+  ],
+  "subDoelstellingen": []
+}

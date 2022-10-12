@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "naam": "Economic",
+    "icoon": "https://cdn-icons-png.flaticon.com/128/3310/3310761.png",
+    "rollen": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "goals": [
+      8,
+      9,
+      10,
+      12,
+      16,
+      17
+    ]
+  }
+]

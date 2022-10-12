@@ -1,0 +1,25 @@
+{
+	"id": 2,
+	"naam": "Directie",
+	"rol": 1,
+	"primair": true,
+	"personaliseerbaar": true,
+	"categorieen": [
+		{
+			"id": 1,
+			"doelstellingen": []
+		},
+		{
+			"id": 2,
+			"doelstellingen": [
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"id": 3,
+			"doelstellingen": []
+		}
+	]
+}

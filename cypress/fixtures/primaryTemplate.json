@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "naam": "Manager",
+    "rol": 2,
+    "primair": true,
+    "personaliseerbaar": true,
+    "categorieen": [
+        {
+            "id": 1,
+            "doelstellingen": [
+                1
+            ]
+        }
+    ]
+}

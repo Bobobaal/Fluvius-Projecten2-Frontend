@@ -1,0 +1,65 @@
+{
+  "id": 1,
+  "naam": "Economic",
+  "icoon": "https://cdn-icons-png.flaticon.com/128/3310/3310761.png",
+  "rollen": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "goals": [
+    8,
+    9,
+    10,
+    12,
+    16,
+    17
+  ],
+  "doelstellingen": [
+    {
+      "id": 1,
+      "naam": "Partnerships 2022",
+      "icoon": "https://cdn-icons-png.flaticon.com/128/2622/2622693.png",
+      "dataType": 0,
+      "drempelwaarde": "1000",
+      "goal": 17,
+      "rollen": [
+        "1",
+        "2",
+        "3"
+      ],
+      "subDoelstellingen": [
+        {
+          "id": 8,
+          "naam": "Partnerships in Europa",
+          "icoon": "https://cdn-icons-png.flaticon.com/128/2622/2622693.png",
+          "dataType": 0,
+          "drempelwaarde": "500"
+        },
+        {
+          "id": 9,
+          "naam": "Partnerships in Amerika",
+          "icoon": "https://cdn-icons-png.flaticon.com/128/2622/2622693.png",
+          "dataType": 0,
+          "drempelwaarde": "500"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "naam": "Lokale Leveranciers 2022",
+      "icoon": "https://cdn-icons-png.flaticon.com/512/1527/1527531.png",
+      "dataType": 1,
+      "drempelwaarde": "50%",
+      "goal": 12,
+      "rollen": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "subDoelstellingen": []
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+.subtitle {
+  font-size: 26px;
+  font-weight: bold;
+  color: #484848;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bold;
+  color: #484848;
+}
+
+.buttonGreen {
+  color: #055063 !important;
+  font-weight: 700 !important;
+  font-size: 24px !important;
+  padding: 20px 35px !important;
+  border-radius: 15px !important;
+  background-color: #AED00B !important;
+}
+
+.buttonGreen:hover {
+  background-color: #BADE0C !important;
+}
+
+.button2, .nav-drawer-button, .nav-drawer-close {
+  color: white !important;
+  font-weight: 500 !important;
+  padding: 7px 20px !important;
+  border-radius: 10px !important;
+  background-color: #055063 !important;
+}
+
+.button2:hover, .nav-drawer-button:hover, .nav-drawer-close:hover {
+  background-color: #397787 !important;
+}
+
+.divider {
+  border-color: #484848 !important;
+  border-width: 1px !important;
+  width: auto !important;
+  margin-top: 10px;
+}
+
+.errormsg {
+  color: red;
+  text-align: left;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.bold {
+  color: #484848 !important;
+  font-weight: bold !important;
+}
+
+.nav-button {
+  color: white;
+  display: inline-block;
+  position: relative;
+  padding-bottom: 3px;
+  cursor: pointer;
+}
+
+.nav-button:hover {
+  color: #AED00B;
+}
+
+.nav-button:hover:after {
+  width: 100%;
+  background: #AED00B;
+}
+
+.nav-button:after {
+  content: '';
+  display: block;
+  margin: auto;
+  height: 1px;
+  width: 0px;
+  background: transparent;
+  -webkit-transition: width .5s ease, background-color .5s ease;
+  transition: width .5s ease, background-color .5s ease;
+}
+
+.nav-button:focus {
+  color: #AED00B;
+}
+
+.nav-drawer-button {
+  padding: 28px 0px !important;
+  font-size: 26px !important;
+  font-weight: 300 !important;
+  width: 100% !important;
+}
+
+.nav-drawer-button:hover {
+  font-weight: 600 !important;
+}
+
+.nav-drawer-close {
+  padding: 2px !important;
+}
+
+.titelSubdoelstellingText {
+  color: #055063;
+  font-weight: 500;
+  margin: 0px 0px 3px 1px;
+}
+
+.subDoelstellingBox {
+  background: #EFEFEF;
+  padding: 1px;
+  border-radius: 10px;
+  width: 25%;
+  margin-bottom: 5px;
+}
+
+.vooruitgangText {
+  display: inline;
+  color: #055063;
+  font-weight: 500;
+}
+
+.cirkelLabel {
+  color: #484848;
+  font-weight: bold;
+}
+
+.subDoelstellingText {
+  margin: 0px 5px 0px 5px;
+  color: #484848;
+  font-weight: 500;
+  text-align: center;
+}
+
+.doelstellingTable {
+  margin: 10px 0px 0px 0px;
+}
+
+.tableRightBorder {
+  border-right-width: 1px;
+  border-right-color: #484848 !important;
+}
+
+.tableCell {
+  border-bottom-width: 0px !important;
+  padding: 0px 10px 0px 10px !important;
+  width: 50%;
+}
+
+.middleCell {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
+
+.paddingTop20px {
+  padding-top: 20px !important;
+}
+
+.subDoelstellingNaam {
+  color: #484848;
+  font-weight: 700;
+  margin-left: 15px !important;
+  margin-bottom: 5px !important;
+  font-size: 20px;
+}
+
+.searchIconSubdoelstelling {
+  margin: 10px 10px 5px 10px !important;
+  font-size: 22px;
+  -webkit-transform: scale(-1, 1);
+          transform: scale(-1, 1);
+}
+
+.datasource-button, .datasource-button-foutief {
+  color: #484848 !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  padding: 0px 25px !important;
+  border-radius: 20px !important;
+  background-color: #EDF2F7 !important;
+}
+
+.datasource-button:hover, .datasource-button-foutief:hover {
+  background-color: #DEE4EC !important;
+}
+
+.datasource-button-foutief {
+  color: white !important;
+  background-color: red !important;
+}
+
+.datasource-button-foutief:hover {
+  background-color: #FF6464 !important;
+}
+/*# sourceMappingURL=App.css.map */

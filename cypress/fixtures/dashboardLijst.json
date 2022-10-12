@@ -1,0 +1,100 @@
+[
+	{
+		"id": 2,
+		"naam": "Directie",
+		"rol": 1,
+		"primair": true,
+		"personaliseerbaar": true,
+		"categorieen": [
+			{
+				"id": 1,
+				"doelstellingen": []
+			},
+			{
+				"id": 2,
+				"doelstellingen": [
+					3,
+					4,
+					5
+				]
+			},
+			{
+				"id": 3,
+				"doelstellingen": []
+			}
+		]
+	},
+	{
+		"id": 3,
+		"naam": "Manager",
+		"rol": 2,
+		"primair": true,
+		"personaliseerbaar": true,
+		"categorieen": [
+			{
+				"id": 1,
+				"doelstellingen": [
+					1,
+					2
+				]
+			},
+			{
+				"id": 2,
+				"doelstellingen": [
+					3,
+					4,
+					5
+				]
+			},
+			{
+				"id": 3,
+				"doelstellingen": [
+					6,
+					7
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"naam": "Coordinator",
+		"rol": 3,
+		"primair": false,
+		"personaliseerbaar": true,
+		"categorieen": [
+			{
+				"id": 1,
+				"doelstellingen": []
+			},
+			{
+				"id": 2,
+				"doelstellingen": []
+			},
+			{
+				"id": 3,
+				"doelstellingen": []
+			}
+		]
+	},
+	{
+		"id": 6,
+		"naam": "Coordinrrrrator",
+		"rol": 0,
+		"primair": true,
+		"personaliseerbaar": false,
+		"categorieen": [
+			{
+				"id": 1,
+				"doelstellingen": []
+			},
+			{
+				"id": 2,
+				"doelstellingen": []
+			},
+			{
+				"id": 3,
+				"doelstellingen": []
+			}
+		]
+	}
+]

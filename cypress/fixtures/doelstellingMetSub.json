@@ -1,0 +1,131 @@
+{
+  "id": 1,
+  "naam": "Partnerships 2022",
+  "icoon": "https://cdn-icons-png.flaticon.com/128/2622/2622693.png",
+  "dataType": 0,
+  "drempelwaarde": "1000",
+  "huidigewaarde": "335",
+  "chart": {
+      "x": [
+          "Jan",
+          "Feb",
+          "Mrt",
+          "Apr"
+      ],
+      "y": [
+          98,
+          145,
+          204,
+          335
+      ],
+      "xLabel": "Maand",
+      "yLabel": "Partners"
+  },
+  "data": [],
+  "goal": 17,
+  "rollen": [
+      "1",
+      "2",
+      "3"
+  ],
+  "subDoelstellingen": [
+      {
+          "id": 8,
+          "naam": "Partnerships in Europa",
+          "icoon": "https://cdn-icons-png.flaticon.com/128/2622/2622693.png",
+          "dataType": 0,
+          "drempelwaarde": "500",
+          "huidigewaarde": "203",
+          "chart": {
+              "x": [
+                  "Jan",
+                  "Feb",
+                  "Mrt",
+                  "Apr"
+              ],
+              "y": [
+                  53,
+                  78,
+                  111,
+                  203
+              ],
+              "xLabel": "Maand",
+              "yLabel": "Partners"
+          },
+          "data": [
+              {
+                  "id": 1,
+                  "naam": "Partnerships in Europa 2022",
+                  "type": 0,
+                  "data": {
+                      "x": [
+                          "Jan",
+                          "Feb",
+                          "Mrt",
+                          "Apr"
+                      ],
+                      "y": [
+                          53,
+                          78,
+                          111,
+                          203
+                      ],
+                      "xLabel": "Maand",
+                      "yLabel": "Partners"
+                  },
+                  "foutief": true,
+                  "boodschap": "De y waarden zijn incorrect"
+              }
+          ]
+      },
+      {
+          "id": 9,
+          "naam": "Partnerships in Amerika",
+          "icoon": "https://cdn-icons-png.flaticon.com/128/2622/2622693.png",
+          "dataType": 0,
+          "drempelwaarde": "500",
+          "huidigewaarde": "132",
+          "chart": {
+              "x": [
+                  "Jan",
+                  "Feb",
+                  "Mrt",
+                  "Apr"
+              ],
+              "y": [
+                  45,
+                  67,
+                  93,
+                  132
+              ],
+              "xLabel": "Maand",
+              "yLabel": "Partners"
+          },
+          "data": [
+              {
+                  "id": 2,
+                  "naam": "Partnerships in Amerika 2022",
+                  "type": 0,
+                  "data": {
+                      "x": [
+                          "Jan",
+                          "Feb",
+                          "Mrt",
+                          "Apr"
+                      ],
+                      "y": [
+                          45,
+                          67,
+                          93,
+                          132
+                      ],
+                      "xLabel": "Maand",
+                      "yLabel": "Partners"
+                  },
+                  "foutief": true,
+                  "boodschap": "incorrect"
+              }
+          ]
+      }
+  ]
+}
