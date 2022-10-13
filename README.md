@@ -52,5 +52,5 @@ om op te starten:
 **Stap 2 aanmaken nieuw dashboard: categorie(ën) toevoegen**
 ![image](https://user-images.githubusercontent.com/15947020/195474606-d986a94d-6ec4-49ab-8892-cdca04fd2cca.png)
 
-**Stap 2 aanmaken nieuw dashboard: doelstelling van een categorie toevoegen**
+**Stap 2 aanmaken nieuw dashboard: doelstelling(en) van een categorie toevoegen**
 ![image](https://user-images.githubusercontent.com/15947020/195474680-7645e571-e2a9-4709-afc2-3f5dc3e59160.png)
